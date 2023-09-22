@@ -5,7 +5,7 @@
 
 - I’m interested in the world of developer.
 - I’m currently learning to be a good  IOS Swift Developer.
-- Professional profile: www.linkedin.com/in/rubén-alonso/
+- Professional profile: linkedin.com/in/rubén-alonso/
 - Email: rubenalonso1973@gmail.com 
 
 
