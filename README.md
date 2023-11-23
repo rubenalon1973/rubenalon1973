@@ -3,10 +3,10 @@
   <img src="https://github.com/rubenalon1973/AnimatedHand/blob/main/giphy.gif" alt="Hello Sticker By Mickey Mouse" width="200px">
 </div>
 
-- I’m interested in the world of developer.
+- I’m interested in the world of developepment.
 - I’m currently learning to be a good  IOS Swift Developer.
-- Professional profile: linkedin.com/in/rubén-alonso/
-- Email: rubenalonso1973@gmail.com 
+- Professional profile: https://www.linkedin.com/in/ruben-alonso-munoz/
+
 
 
 
@@ -35,13 +35,7 @@
 
 ----------------------
 
-<br>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/{rubenalonso1973}/count.svg" alt="Visitor Count">
-  <br>
-  <strong>Visitor Count</strong>
-</div>
 
 
 
