@@ -1,11 +1,26 @@
 <div align="center">
-  <h1> Hi, I’m Rubén.</h3>
   <img src="https://github.com/rubenalon1973/AnimatedHand/blob/main/giphy.gif" alt="Hello Sticker By Mickey Mouse" width="200px">
 </div>
 
-- I’m interested in the world of developepment.
+# Rubén Alonso
+
+## About Me
+- I’m interested in the world of development.
 - I’m currently learning to be a good  IOS Swift Developer.
-- Professional profile: https://www.linkedin.com/in/ruben-alonso-munoz/
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/ruben-alonso-munoz/)
+
+## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,swift&perline=5" />
+  </a>
+</p>
+
+
+
+
+
+
 
 
 
