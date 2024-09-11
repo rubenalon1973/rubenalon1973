@@ -8,7 +8,11 @@
 - I’m interested in the world of development.
 - I am constantly learning to improve on  
 my current profession as an  iOS Swift Developer.
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/ruben-alonso-munoz/)
+- Connect with me on <a href="https://www.linkedin.com/in/ruben-alonso-munoz/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="20" style="vertical-align:middle;" />
+</a>
+
+
 
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
 <p align="center">
