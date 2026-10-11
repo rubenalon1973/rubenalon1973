@@ -5,9 +5,7 @@
 # Rubén Alonso
 
 ## About Me
-- I’m interested in the world of development.
-- I am constantly learning to improve on  
-my current profession as an  iOS Swift Developer.
+- I’m interested in the world of development and I am constantly training to achieve my goals
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/ruben-alonso-munoz/) 
 
 
@@ -15,7 +13,7 @@ my current profession as an  iOS Swift Developer.
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,java,vscode,mysql,html,css,javascript,git,github,gitlab,postman,discord,figma,firebase,gmail,jenkins,notion,linkedin,stackoverflow&perline=13" />
+    <img src="https://skillicons.dev/icons?i=apple,windows,linux,mint,swift,java,hibernate,maven,spring,php,laravel,eclipse,vscode,mysql,html,css,javascript,git,github,gitlab,postman,discord,figma,firebase,gmail,jenkins,notion,linkedin,stackoverflow,ai&perline=15" />
   </a>
 </p>
 
